@@ -3,7 +3,7 @@
 #### Objectives
 Establish secure integration of AI/LLM components by promoting responsible sourcing, secure coding, resilient design, and defensible supply chain choices.
 
-## 🧭 AI Model Inventory Maturity Levels
+#### AI Model Inventory Maturity Levels
 
 | **Maturity Level & Description** | **Stream A – Process-Oriented** | **Stream B – Technical Controls** |
 |----------------------------------|----------------------------------|------------------------------------|
